@@ -12,10 +12,11 @@
     <div><sup>3</sup>University of Chinese Academy of Sciences</div>
     <div><sup>4</sup>Northwestern Polytechnical University</div>
 </div>
+</div>
 
 
 
-## BibTeX
+# BibTeX
 ```
 @article{jing2024boosting,
   title={Boosting edge detection via Fusing Spatial and Frequency Domains},
