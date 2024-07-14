@@ -7,9 +7,9 @@
     <a href="" target="_blank">Dexing Zhong</a><sup>3,4</sup>
 </div>
 <div>
-    <sup>1</sup>School of Computer Science and Technology, Soochow University
-    <sup>2</sup>Institute of Software, Chinese Academy of Sciences
-    <sup>3</sup>University of Chinese Academy of Sciences
+    <sup>1</sup>School of Computer Science and Technology, Soochow University,
+    <sup>2</sup>Institute of Software, Chinese Academy of Sciences,
+    <sup>3</sup>University of Chinese Academy of Sciences,
     <sup>4</sup>Northwestern Polytechnical University
 </div>
 </div>
