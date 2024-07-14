@@ -15,7 +15,7 @@
 
 
 
-# BibTeX
+## BibTeX
 ```
 @article{jing2024boosting,
   title={Boosting edge detection via Fusing Spatial and Frequency Domains},
