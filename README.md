@@ -1,16 +1,16 @@
 <div align="center">
 
-<h1>CartoonDiff: Training-free Cartoon Image Generation with Diffusion Transformer Models</h1>
+<h1>Boosting edge detection via Fusing Spatial and Frequency Domains</h1>
 <div>
-    <a href="" target="_blank">Dongdong Jing</a><sup></sup>,
-    <a href="" target="_blank">Huikai Shao</a><sup></sup>,
-    <a href="" target="_blank">Dexing Zhong</a><sup></sup>
+    <a href="" target="_blank">Dongdong Jing</a><sup>1</sup>,
+    <a href="" target="_blank">Huikai Shao</a><sup>2</sup>,
+    <a href="" target="_blank">Dexing Zhong</a><sup>3,4</sup>
 </div>
 <div>
-    <sup></sup>School of Computer Science and Technology, Soochow University
-    <sup></sup>Institute of Software, Chinese Academy of Sciences
-    <sup></sup>University of Chinese Academy of Sciences
-    <sup></sup>Northwestern Polytechnical University
+    <sup>1</sup>School of Computer Science and Technology, Soochow University
+    <sup>2</sup>Institute of Software, Chinese Academy of Sciences
+    <sup>3</sup>University of Chinese Academy of Sciences
+    <sup>4</sup>Northwestern Polytechnical University
 </div>
 </div>
 
