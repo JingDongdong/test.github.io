@@ -30,4 +30,13 @@
   year={2023}
 }
 ```
-
+```
+@article{jing2024boosting,
+  title={Boosting edge detection via Fusing Spatial and Frequency Domains},
+  author={Jing, Dongdong and Shao, Huikai and Zhong, Dexing},
+  journal={Pattern Recognition},
+  pages={110699},
+  year={2024},
+  publisher={Elsevier}
+}
+```
